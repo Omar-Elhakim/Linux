@@ -1,0 +1,41 @@
+1.
+use mkdir to make a new directory
+use cd to get into it 
+
+2.
+use mkdir to make a new directory
+use cd to get into it 
+use touch to crate a new file 
+write all the names beside each other to create thm all at once
+use ls to list all the files
+
+3.
+using .. with cd moves up one directory
+create a hidden file by starting its name with a dot "."
+ls -a to see all files even hidden ones
+
+4.
+edit a file with nano using the "nano" command
+display text inside a file uxing cat
+
+5.
+we are already inside documents
+
+6.
+create it using double qoutes around the hyphen
+enter this directory using its absolute path
+
+7.
+copy using cp ,but we need -r becuase the directory isn't empty
+to make a new copy in the same place but with a diffrent name cp old_name new_name
+ls to view the contents
+
+8.
+use cat to display the contents
+but its empty so nothing appears 
+
+9.
+use mv to move files
+
+10.
+use rm  to delete a file or a directory and -r to delete whats inside it

@@ -1,0 +1,27 @@
+1.
+extract the zip file using unzip
+search for hidden files using ls -a
+unarchive .level-1.tar
+
+2.
+enter the level 1 directory
+we can determine the file tpe to decompress it usong the right tool with the file command
+change its name to add suffix using mv
+
+3.
+determine level-2 file type using "file"
+change its name so it ends with the . tar suffix so we can unarchive it
+unarchive it using tar -xf
+
+4.
+enter level 2 directory 
+search for level-3 using "find" 
+decompress level 3 using tar
+
+5.
+enter level-3 directory
+display all the file and their links using  ls -li
+find the file with this size using "find -size 73c"
+ 
+ 6.
+ rest :)

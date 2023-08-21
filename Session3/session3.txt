@@ -1,1 +1,27 @@
+1.
+create a new user using adduser so i can set its password right away and it has a ready home dir
+create a new group using groupadd
+add the new user to a osc_group and sudo group using usermod
+switch to a user in the terminal using su
 
+2.
+make the new dir and 3 new files
+change the ownership using chmod
+use the absolute mode thenn the symbolic mode
+
+3.
+change the owner and the group in s single command using sudo chown new_user : new_group file_name
+
+4.
+open the settings and let it sleep for 1000 seconds
+get its PID
+use the kill (PID_number) command 
+open vim and suspend it then kill it usuing its name by using killall (app's_name)
+check the running apps using ps -l
+
+
+5.
+install an app using apt package manager
+use the command apt install (app's name)
+make sure that neofetch is installed successfully 
+unistall an app using the command sudo apt remove 
